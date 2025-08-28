@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/marmeshius/marmeshius/blob/main/banner.png" alt="Maryam's Banner" />
+</p>
 <h1 align="center">Hello 👋, I'm MaryUm Shah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
