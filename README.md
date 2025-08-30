@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/marmeshius/marmeshius/raw/main/coding.jpg" alt="Maryam's Banner" width="900" style="border-radius: 50;" />
+  <img src="https://github.com/marmeshius/marmeshius/raw/main/coding.jpg" alt="Maryam's Banner" width="900" height="400" style="border-radius: 50;" />
 </p>
 <h1 align="center">Hello 👋, I'm MaryUm Shah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
