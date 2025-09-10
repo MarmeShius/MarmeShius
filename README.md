@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/marmeshius/marmeshius/raw/main/girl.webp" alt="Maryam's Banner" />
 </p>
-<h1 align="center">Hola! 🙂‍↕️🙂‍↔️, I'm MaryUm Shah</h1>
+<h1 align="center">Hola! 🙄😊, I'm MaryUm Shah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marmeshius&label=Profile%20views&color=0e75b6&style=flat" alt="marmeshius" /> </p>
